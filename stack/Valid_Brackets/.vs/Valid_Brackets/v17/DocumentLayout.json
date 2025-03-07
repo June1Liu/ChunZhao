@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\chunzhao\\algorithm\\data_structure\\stack\\Valid_Brackets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2D518-5AA5-4C97-A18D-E13E37506A57}|Valid_Brackets\\Valid_Brackets.vcxproj|D:\\chunzhao\\algorithm\\data_structure\\stack\\Valid_Brackets\\Valid_Brackets\\Valid_Brackets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97B2D518-5AA5-4C97-A18D-E13E37506A57}|Valid_Brackets\\Valid_Brackets.vcxproj|solutionrelative:Valid_Brackets\\Valid_Brackets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Valid_Brackets.cpp",
+              "DocumentMoniker": "D:\\chunzhao\\algorithm\\data_structure\\stack\\Valid_Brackets\\Valid_Brackets\\Valid_Brackets.cpp",
+              "RelativeDocumentMoniker": "Valid_Brackets\\Valid_Brackets.cpp",
+              "ToolTip": "D:\\chunzhao\\algorithm\\data_structure\\stack\\Valid_Brackets\\Valid_Brackets\\Valid_Brackets.cpp",
+              "RelativeToolTip": "Valid_Brackets\\Valid_Brackets.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T04:45:57.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

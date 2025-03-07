@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\chunzhao\\algorithm\\hot\\dynamic\\dynamic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFE9333-9887-45AC-88D8-C9D9F9155B11}|dynamic\\dynamic.vcxproj|D:\\chunzhao\\algorithm\\hot\\dynamic\\dynamic\\dynamic\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8FFE9333-9887-45AC-88D8-C9D9F9155B11}|dynamic\\dynamic.vcxproj|solutionrelative:dynamic\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\chunzhao\\algorithm\\hot\\dynamic\\dynamic\\dynamic\\main.cpp",
+              "RelativeDocumentMoniker": "dynamic\\main.cpp",
+              "ToolTip": "D:\\chunzhao\\algorithm\\hot\\dynamic\\dynamic\\dynamic\\main.cpp",
+              "RelativeToolTip": "dynamic\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T11:41:57.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

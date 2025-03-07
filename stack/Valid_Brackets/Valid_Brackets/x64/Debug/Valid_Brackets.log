@@ -1,0 +1,3 @@
+﻿  Valid_Brackets.cpp
+D:\chunzhao\algorithm\data_structure\stack\Valid_Brackets\Valid_Brackets\Valid_Brackets.cpp(11,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Valid_Brackets.vcxproj -> D:\chunzhao\algorithm\data_structure\stack\Valid_Brackets\x64\Debug\Valid_Brackets.exe

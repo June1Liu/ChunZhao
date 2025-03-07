@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\chunzhao\\algorithm\\hot\\binarySearch\\binarySearch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE52C97-92C9-4A3C-B2E0-C84860F369A0}|binarySearch\\binarySearch.vcxproj|D:\\chunzhao\\algorithm\\hot\\binarySearch\\binarySearch\\binarySearch\\binarySearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CE52C97-92C9-4A3C-B2E0-C84860F369A0}|binarySearch\\binarySearch.vcxproj|solutionrelative:binarySearch\\binarySearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "binarySearch.cpp",
+              "DocumentMoniker": "D:\\chunzhao\\algorithm\\hot\\binarySearch\\binarySearch\\binarySearch\\binarySearch.cpp",
+              "RelativeDocumentMoniker": "binarySearch\\binarySearch.cpp",
+              "ToolTip": "D:\\chunzhao\\algorithm\\hot\\binarySearch\\binarySearch\\binarySearch\\binarySearch.cpp",
+              "RelativeToolTip": "binarySearch\\binarySearch.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T08:19:48.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
