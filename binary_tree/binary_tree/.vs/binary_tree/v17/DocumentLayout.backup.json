@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\chunzhao\\algorithm\\hot\\binary_tree\\binary_tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{388AC982-68DD-49ED-AAD9-34AB58D43351}|binary_tree\\binary_tree.vcxproj|D:\\chunzhao\\algorithm\\hot\\binary_tree\\binary_tree\\binary_tree\\binary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{388AC982-68DD-49ED-AAD9-34AB58D43351}|binary_tree\\binary_tree.vcxproj|solutionrelative:binary_tree\\binary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "binary.cpp",
+              "DocumentMoniker": "D:\\chunzhao\\algorithm\\hot\\binary_tree\\binary_tree\\binary_tree\\binary.cpp",
+              "RelativeDocumentMoniker": "binary_tree\\binary.cpp",
+              "ToolTip": "D:\\chunzhao\\algorithm\\hot\\binary_tree\\binary_tree\\binary_tree\\binary.cpp",
+              "RelativeToolTip": "binary_tree\\binary.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T08:25:28.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

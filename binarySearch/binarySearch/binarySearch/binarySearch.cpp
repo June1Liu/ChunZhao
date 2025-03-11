@@ -6,6 +6,7 @@ class binarySearch {
 public:
 	int binarySearchFun(vector<int>& nums, int target) {
 		//time complexity is O(log n), space time complexity is O(1);
+		//this function is used to search whether an element is in an array or not
 		int a = 0;
 		int b = nums.size() - 1;
 		int m;
@@ -21,6 +22,24 @@ public:
 				return m;
 		}
 		return -1;
+	}
+
+	int binarySearchInsertion(vector<int>& nums, int target) {
+		int i = 0, j = nums.size() - 1;
+		int m;
+		while (i <= j) {
+			m = i + (j - i) / 2;
+			if (nums[m] < target) {
+				i = m + 1;
+			}
+			else if (nums[m] > target) {
+				j = m - 1;
+			}
+			else
+				return m;
+		}
+		return i;
+	
 	}
 
 };
